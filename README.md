@@ -25,37 +25,37 @@ Below you can find  the code snippets you used for the experiment, along with li
 - 👎 January 31, 2024 + 1 month = March 2, 2024
 - [Code Sample](add-month-golang.go)
 - [Live Snippet](https://goplay.tools/snippet/_rIZ2wGtRPN)
-- [Screenshot](images/chat-golang.png)
+- [Screenshot](images/golang.png)
 
 ## PHP
 - 👎 January 31, 2024 + 1 month = March 2, 2024
 - [Code Sample](add-month-php.php)
 - [Live Snippet](https://www.tehplayground.com/K7erQkjnyZ04rfBI)
-- [Screenshot](images/chat-php.png)
+- [Screenshot](images/php.png)
 
 ## Python
 - 👍 January 31, 2024 + 1 month = February 29, 2024
 - [Code Sample](add-month-python.py)
 - [Live Snippet](https://www.online-python.com/XtEGBWSowF)
-- [Screenshot](images/chat-python.png)
+- [Screenshot](images/python.png)
 
 ## JS
 - 👎 January 31, 2024 + 1 month = March 2, 2024
 - [Code Sample](add-month-js.js)
 - [Playground](https://playcode.io/javascript)
-- [Screenshot](images/chat-js.png)
+- [Screenshot](images/js.png)
 
 ## Java
 - 👍 January 31, 2024 + 1 month = February 29, 2024
 - [Code Sample](add-month-java.java)
 - [Playground](https://www.sololearn.com/compiler-playground/java)
-- [Screenshot](images/chat-java.png)
+- [Screenshot](images/java.png)
 
 ## Ruby
 - 👍 January 31, 2024 + 1 month = February 29, 2024
 - [Code Sample](add-month-ruby.py)
 - Playground: https://www.jdoodle.com/execute-ruby-online
-- [Screenshot](images/chat-ruby.png)
+- [Screenshot](images/ruby.png)
 
 ## ChatGPT
 - 👍 January 31, 2024 + 1 month = February 29, 2024
