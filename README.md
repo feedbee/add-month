@@ -16,7 +16,7 @@ So, in essence, adding one month isn't the same as adding 30 or 31 days. But are
 Below you can find  the code snippets you used for the experiment, along with links to live code snippets (if available) and screenshots of the code and output.
 
 ## C#.NET
-- 👍January 31, 2024 + 1 month = February 29, 2024
+- 👍 January 31, 2024 + 1 month = February 29, 2024
 - [Code Sample](add-month-dotnet.cs)
 - [Playground](https://dotnetfiddle.net/)
 - [Screenshot](images/dotnet.png)
