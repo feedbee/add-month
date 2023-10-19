@@ -19,7 +19,7 @@ Below you can find  the code snippets you used for the experiment, along with li
 - 👍January 31, 2024 + 1 month = February 29, 2024
 - [Code Sample](add-month-dotnet.cs)
 - [Playground](https://dotnetfiddle.net/)
-- [Screenshot](images/chat-golang.png)
+- [Screenshot](images/golang.png)
 
 ## Golang
 - 👎 January 31, 2024 + 1 month = March 2, 2024
