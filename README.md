@@ -53,8 +53,8 @@ Below you can find  the code snippets you used for the experiment, along with li
 
 ## Ruby
 - 👍 January 31, 2024 + 1 month = February 29, 2024
-- [Code Sample](add-month-ruby.py)
-- Playground: https://www.jdoodle.com/execute-ruby-online
+- [Code Sample](add-month-ruby.rb)
+- [Playground](https://www.jdoodle.com/execute-ruby-online)
 - [Screenshot](images/ruby.png)
 
 ## ChatGPT
