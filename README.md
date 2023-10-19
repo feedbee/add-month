@@ -24,19 +24,19 @@ Below you can find  the code snippets you used for the experiment, along with li
 ## Golang
 - 👎 January 31, 2024 + 1 month = March 2, 2024
 - [Code Sample](add-month-golang.go)
-- [Live Snippet](https://goplay.tools/snippet/_rIZ2wGtRPN)
+- [Live Snippet](https://goplay.tools/snippet/FZea81eUeM5)
 - [Screenshot](images/golang.png)
 
 ## PHP
 - 👎 January 31, 2024 + 1 month = March 2, 2024
 - [Code Sample](add-month-php.php)
-- [Live Snippet](https://www.tehplayground.com/K7erQkjnyZ04rfBI)
+- [Live Snippet](https://www.tehplayground.com/HjHEIEzU56O0Msfl)
 - [Screenshot](images/php.png)
 
 ## Python
 - 👍 January 31, 2024 + 1 month = February 29, 2024
 - [Code Sample](add-month-python.py)
-- [Live Snippet](https://www.online-python.com/XtEGBWSowF)
+- [Live Snippet](https://www.online-python.com/KXmLvup8J6)
 - [Screenshot](images/python.png)
 
 ## JS
