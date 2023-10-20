@@ -13,8 +13,8 @@ public class Main {
 
         System.out.println("");
         
-        // Set a specific date to October 31, 2023
-        LocalDate specificDate = LocalDate.of(2023, 10, 31);
+        // Set a specific date to January 31, 2024
+        LocalDate specificDate = LocalDate.of(2024, 1, 31);
         // Add 1 month
         LocalDate futureDate2 = specificDate.plusMonths(1);
 
