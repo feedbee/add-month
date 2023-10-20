@@ -18,7 +18,7 @@ public class Main {
         // Add 1 month
         LocalDate futureDate2 = specificDate.plusMonths(1);
 
-        System.out.println("Specific Date: " + currentDate);
+        System.out.println("Specific Date: " + specificDate);
         System.out.println("Date One Month from the Specific Date: " + futureDate2);
     }
 }
